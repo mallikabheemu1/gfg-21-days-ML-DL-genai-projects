@@ -6,7 +6,6 @@
 ## 🧭 Table of Contents
 - [Project List](#project-list)
 - [Technologies Used](#technologies-used)
-- [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -92,10 +91,6 @@
 - Selenium, n8n, RSS feeds  
 
 ---
-
-## 🗂 Repository Structure
-
-
 
 ## 🛠 Technologies Used
 - Python, Pandas, NumPy, Scikit-learn  
