@@ -1,19 +1,12 @@
 # gfg-21-days-ML-DL-genai-projects
 21 GFG hands-on projects in Machine Learning, Deep Learning, and Generative AI
 
-# GFG 21 Days 21 Projects — ML, DL & GenAI 🚀
-
-A complete hands-on journey through 21 AI projects in 21 days, covering **Machine Learning, Deep Learning, Generative AI**, and **Agentic AI**.
-
 ---
 
 ## 🧭 Table of Contents
 - [Project List](#project-list)
 - [Technologies Used](#technologies-used)
 - [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -22,72 +15,87 @@ A complete hands-on journey through 21 AI projects in 21 days, covering **Machin
 ---
 
 ## 📚 Project List
-### 🧠 Week 1: Machine Learning & Data Science Fundamentals
-- **Data Storytelling — Analyzing Survival on the Titanic**  
-  🧩 *Focus:* Exploratory Data Analysis, Data Visualization  
-  ⚙️ *Technologies:* Python, Pandas, Matplotlib, Seaborn  
-  💡 *Key Concepts:* Data cleaning, statistical analysis, visualization techniques  
-  📦 *Deliverables:* Titanic survival analysis  
 
-- **Cracking the Code — Netflix Content Strategy Analysis**  
-  🧩 *Focus:* Content Analysis, Business Intelligence  
-  ⚙️ *Technologies:* Python, Pandas, Plotly  
-  💡 *Key Concepts:* Content distribution analysis, trend identification  
-  📦 *Deliverables:* Netflix content strategy insights  
+### 🧠 Week 1: Machine Learning & Data Science
+- **Data Storytelling — Analyzing Survival on the Titanic**  
+  *Focus:* EDA & Visualization | *Tech:* Python, Pandas, Matplotlib, Seaborn | *Deliverables:* Titanic survival analysis  
+
+- **Cracking the Code — Netflix Content Strategy**  
+  *Focus:* Business Intelligence | *Tech:* Python, Pandas, Plotly | *Deliverables:* Content insights & visualizations  
 
 - **Predicting Housing Market Trends with AI**  
-  🧩 *Focus:* Regression Analysis, Predictive Modeling  
-  ⚙️ *Technologies:* Scikit-learn, XGBoost, Feature Engineering  
-  💡 *Key Concepts:* Linear regression, ensemble methods, model evaluation  
-  📦 *Deliverables:* Housing price prediction model  
+  *Focus:* Regression & Predictive Modeling | *Tech:* Scikit-learn, XGBoost | *Deliverables:* Housing price prediction model  
 
 - **AI in Healthcare — Heart Disease Predictor**  
-  🧩 *Focus:* Classification, Healthcare AI  
-  ⚙️ *Technologies:* Scikit-learn, Logistic Regression, Random Forest  
-  💡 *Key Concepts:* Binary classification, medical data analysis  
-  📦 *Deliverables:* Heart disease prediction system  
+  *Focus:* Classification | *Tech:* Scikit-learn, Logistic Regression, Random Forest | *Deliverables:* Heart disease prediction system  
 
 - **Smart Segmentation — Customer Personas with AI**  
-  🧩 *Focus:* Clustering, Unsupervised Learning  
-  ⚙️ *Technologies:* K-Means, DBSCAN, PCA  
-  💡 *Key Concepts:* Customer segmentation, dimensionality reduction  
-  📦 *Deliverables:* Customer persona identification system  
+  *Focus:* Clustering & Unsupervised Learning | *Tech:* K-Means, DBSCAN, PCA | *Deliverables:* Customer segmentation system  
 
 - **Predicting Future Store Sales with AI**  
-  🧩 *Focus:* Time Series Analysis, Forecasting  
-  ⚙️ *Technologies:* ARIMA, Prophet, LSTM  
-  💡 *Key Concepts:* Temporal patterns, seasonal decomposition, forecasting  
-  📦 *Deliverables:* Store sales prediction model  
+  *Focus:* Time Series Forecasting | *Tech:* ARIMA, Prophet, LSTM | *Deliverables:* Store sales prediction  
 
 - **Preventing Customer Churn with Feature Transformation**  
-  🧩 *Focus:* Classification, Feature Engineering  
-  ⚙️ *Technologies:* Scikit-learn  
-  💡 *Key Concepts:* Churn prediction, feature scaling, model selection  
-  📦 *Deliverables:* Customer churn prevention system  
+  *Focus:* Classification & Feature Engineering | *Tech:* Scikit-learn | *Deliverables:* Customer churn prevention system  
 
 ### 🧬 Week 2: Computer Vision & Deep Learning
-- **Vision AI Fundamentals — Digit Recognizer from Scratch**
-      Focus: Neural Networks, Image Classification
-      Technologies: TensorFlow, Keras, CNN
-      Key Concepts: Deep learning basics, convolutional networks, MNIST/CIFAR-100
-      Deliverables: Digit recognition system with multiple model architectures
+- **Vision AI Fundamentals — Digit Recognizer from Scratch**  
+  *Focus:* Neural Networks, Image Classification | *Tech:* TensorFlow, Keras, CNN | *Deliverables:* Digit recognition system  
+
 - **Advanced Vision AI — Transfer Learning for Image Classification**  
+  *Focus:* Transfer Learning, Pre-trained Models | *Tech:* TensorFlow, VGG16, ResNet, MobileNet | *Deliverables:* Flower classification system  
+
 - **Creative AI — Generating Art with Neural Style Transfer**  
+  *Focus:* Generative AI, Style Transfer | *Tech:* TensorFlow, VGG19, GANs | *Deliverables:* Art generation system  
+
 - **The AI Swiss Army Knife — Hugging Face Pipelines**  
+  *Focus:* Pre-trained Models, NLP | *Tech:* Hugging Face Transformers, Diffusion Models | *Deliverables:* Multi-purpose AI toolkit  
+
 - **Face Super Resolution & Object Detection (YOLO)**  
+  *Focus:* Computer Vision, Object Detection | *Tech:* YOLO, U-Net, OpenCV | *Deliverables:* Object detection & face super-resolution model  
+
 - **Stock Price Prediction — NIFTY 50 Analysis**  
+  *Focus:* Financial AI, Time Series | *Tech:* LSTM, GRU, Technical Indicators | *Deliverables:* NIFTY 50 stock price prediction system  
+
 - **Build Your Own GPT — Custom Text Generation Engine**  
+  *Focus:* Language Models, Text Generation | *Tech:* GPT-2, Transformers, Fine-tuning | *Deliverables:* Python code-focused GPT-2 model  
 
 ### 🤖 Week 3: Generative AI & Agentic Systems
 - **Talk to Your Data — Natural Language to SQL Generator**  
+  *Focus:* NLP, Database Querying | *Tech:* LangChain, SQL, NL2SQL | *Deliverables:* NL2SQL interface for employee dataset  
+
 - **Intelligent Document Automation — Smart OCR Bot**  
+  *Focus:* OCR, Document Processing | *Tech:* Tesseract, OpenCV, NLP | *Deliverables:* Automated resume analysis system  
+
 - **Build Your Own Intelligent Internet Search Engine**  
+  *Focus:* Information Retrieval, Search Systems | *Tech:* TF-IDF, Vector Search, Web Scraping | *Deliverables:* Custom search engine  
+
 - **Chat with Your Knowledge Base — RAG Chatbot**  
-- **Autonomous Market Analyst — AI Research Agent**  
+  *Focus:* Retrieval Augmented Generation, Chatbots | *Tech:* LangChain, Vector Databases, Embeddings | *Deliverables:* Knowledge base chatbot  
+
+- **Autonomous Market Analyst — AI Agents for Deep Research**  
+  *Focus:* AI Agents, Autonomous Systems | *Tech:* LangChain Agents, Tool Integration | *Deliverables:* Automated market research agent  
+
 - **Web Automation on Autopilot — AI Browser Agent**  
-- **AI-Powered Newsletter Pipeline on n8n**  
+  *Focus:* Web Automation, Browser Control | *Tech:* Selenium, AI Agents, Web Scraping | *Deliverables:* AI-powered browser automation system  
+
+- **Building an AI-Powered Newsletter Pipeline on n8n**  
+  *Focus:* Workflow Automation, Content Generation | *Tech:* n8n, AI Agents, RSS Feeds, Tavily | *Deliverables:* Automated newsletter generation system  
 
 ---
+
+## 🛠 Technologies Used
+- Python, Pandas, NumPy, Scikit-learn  
+- TensorFlow, Keras, PyTorch  
+- Hugging Face Transformers, LangChain  
+- OpenCV, YOLO  
+- Selenium, n8n, RSS feeds  
+
+---
+
+## 🗂 Repository Structure
+
+
 
 ## 🛠 Technologies Used
 - Python, Pandas, NumPy, Scikit-learn  
