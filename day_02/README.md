@@ -1,5 +1,4 @@
 ### Day 2: Netflix Content Strategy Analysis
-**Folder:** [day_02](./day_02)
 
 **Project Overview:**  
 This project provides a comprehensive analysis of Netflix's content strategy through exploratory data analysis (EDA) of their content catalog. The analysis examines content distribution patterns, acquisition strategies, and key insights into how Netflix curates and manages its vast library of movies and TV shows.
