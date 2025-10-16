@@ -17,10 +17,16 @@ To build an accurate regression model that predicts house sale prices based on m
 ## Project Structure
 Day_03/
 ├── README.md                                           # Project documentation
-├── 3. Predicting Housing Market Trends with AI.ipynb   # Main tutorial notebook
+├── 3. Predicting Housing Market Trends with AI.ipynb  # Main tutorial notebook
 ├── Assignment_Housing_Market_Complete.ipynb            # Assignment solution notebook
 ├── submission.csv                                      # Model predictions for test set
-├── Sumbission_Screenshot.jpg                           # Submission screenshot
+├── Sumbission_ss.png                                   # GitHub upload screenshot
+└── data/
+    ├── README.md                                       # Data documentation
+    ├── data_description.txt                            # Feature descriptions
+    ├── sample_submission.csv                           # Submission format template
+    ├── test.csv                                        # Test dataset
+    └── train.csv                                       # Training dataset
 
 ## Analysis Workflow
 1. **Setup and Library Import**  
