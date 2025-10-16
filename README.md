@@ -106,7 +106,7 @@
 - **Chat with Your Knowledge Base — RAG Chatbot**  
   - **Focus:** Retrieval Augmented Generation, Chatbots
   - **Tech:** LangChain, Vector Databases, Embeddings
-  - *Deliverables:* Knowledge base chatbot  
+  - **Deliverables:** Knowledge base chatbot  
 
 - **Autonomous Market Analyst — AI Agents for Deep Research**  
   - **Focus:** AI Agents, Autonomous Systems
