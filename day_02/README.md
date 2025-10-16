@@ -14,11 +14,11 @@ Perform in-depth exploratory data analysis on Netflix's content dataset and answ
 - **Key Features:** Title, type, director, cast, country, date added, release year, rating, duration, genre, description  
 
 **Project Structure:**  
+Day_02/  
+├── README.md  
+├── 2_Cracking_the_Code_An_Inside_Look_at_Netflix.ipynb  
+└── Assignment_Netflix_Content_Analysis.ipynb
 
-Day_02/
-├── README.md # Project documentation
-├── 2_Cracking_the_Code_An_Inside_Look_at_Netflix's_Content_Strategy.ipynb # Main notebook
-└── Assignment_Netflix_Content_Analysis.ipynb # Assignment solution notebook
 
 
 **Analysis Workflow:**  
