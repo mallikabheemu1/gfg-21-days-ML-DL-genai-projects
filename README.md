@@ -101,22 +101,6 @@
 
 ---
 
-## 🗂 Repository Structure
-GFG-21-Projects/
-│
-├── 01-07_MachineLearning/
-│ ├── TitanicPrediction/
-│ └── ...
-├── 08-14_DeepLearning/
-│ └── ...
-├── 15-21_GenerativeAI/
-│ └── ...
-├── README.md
-└── .gitignore
-
-
----
-
 ## 🤝 Contributing
 This is a personal learning repository. However, suggestions and improvements are welcome through issues and pull requests.
 
