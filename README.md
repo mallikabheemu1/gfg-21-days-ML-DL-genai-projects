@@ -109,9 +109,9 @@
   - *Deliverables:* Knowledge base chatbot  
 
 - **Autonomous Market Analyst — AI Agents for Deep Research**  
-  -*Focus:* AI Agents, Autonomous Systems
-  -*Tech:* LangChain Agents, Tool Integration
-  -*Deliverables:* Automated market research agent  
+  - **Focus:** AI Agents, Autonomous Systems
+  - **Tech:** LangChain Agents, Tool Integration
+  - **Deliverables:** Automated market research agent  
 
 - **Web Automation on Autopilot — AI Browser Agent**  
   - *Focus:* Web Automation, Browser Control
