@@ -21,7 +21,7 @@ Day_03/
 ├── 3. Predicting Housing Market Trends with AI.ipynb  # Main tutorial notebook
 ├── Assignment_Housing_Market_Complete.ipynb           # Assignment solution notebook
 ├── submission.csv                                     # Model predictions for test set
-├── Sumbission_Screenshot.jpg                                  # GitHub upload screenshot
+├── Sumbission_Screenshot.png                                  # GitHub upload screenshot
 └── data/
     ├── README.md                                      # Data documentation
     ├── data_description.txt                            # Feature descriptions
@@ -97,7 +97,7 @@ Day_03/
 - Complete ML Pipeline  
 - Model Comparison (Baseline vs Advanced)  
 - Submission File: `submission.csv`  
-- Upload Screenshot: `Sumbission_Screenshot.jpg`  
+- Upload Screenshot: `Sumbission_Screenshot.png`  
 - Feature Importance Analysis  
 
 ## Assignment Completion Status
