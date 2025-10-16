@@ -120,7 +120,3 @@ This analysis provides valuable insights into the factors that influenced surviv
 
 ---
 
-**Note:** This project is part of a 21-day data science challenge focusing on practical applications of data analysis and visualization techniques.
-
----
-
