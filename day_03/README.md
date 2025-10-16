@@ -20,7 +20,7 @@ Day_03/
 ├── 3. Predicting Housing Market Trends with AI.ipynb  # Main tutorial notebook
 ├── Assignment_Housing_Market_Complete.ipynb            # Assignment solution notebook
 ├── submission.csv                                      # Model predictions for test set
-├── Sumbission_ss.png                                   # GitHub upload screenshot
+├── Sumbission_Screenshot.jpg                           # upload screenshot
 └── data/
     ├── README.md                                       # Data documentation
     ├── data_description.txt                            # Feature descriptions
