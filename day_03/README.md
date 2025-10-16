@@ -15,8 +15,8 @@ To build an accurate regression model that predicts house sale prices based on m
 - **Feature Types:** Numerical and categorical property characteristics  
 
 ## Project Structure 
-
 Day_03/
+```
 ├── README.md                                           # Project documentation
 ├── 3. Predicting Housing Market Trends with AI.ipynb  # Main tutorial notebook
 ├── Assignment_Housing_Market_Complete.ipynb           # Assignment solution notebook
@@ -28,6 +28,7 @@ Day_03/
     ├── sample_submission.csv                           # Submission format template
     ├── test.csv                                        # Test dataset
     └── train.csv                                       # Training dataset
+```
 
 
 
