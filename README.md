@@ -16,7 +16,7 @@
 
 ## 📚 Project List
 
-### 🧠 Week 1: Machine Learning & Data Science
+### 🧠 Machine Learning & Data Science
 - **Data Storytelling — Analyzing Survival on the Titanic**  
   *Focus:* EDA & Visualization | *Tech:* Python, Pandas, Matplotlib, Seaborn | *Deliverables:* Titanic survival analysis  
 
@@ -38,7 +38,7 @@
 - **Preventing Customer Churn with Feature Transformation**  
   *Focus:* Classification & Feature Engineering | *Tech:* Scikit-learn | *Deliverables:* Customer churn prevention system  
 
-### 🧬 Week 2: Computer Vision & Deep Learning
+### 🧬 Computer Vision & Deep Learning
 - **Vision AI Fundamentals — Digit Recognizer from Scratch**  
   *Focus:* Neural Networks, Image Classification | *Tech:* TensorFlow, Keras, CNN | *Deliverables:* Digit recognition system  
 
@@ -60,7 +60,7 @@
 - **Build Your Own GPT — Custom Text Generation Engine**  
   *Focus:* Language Models, Text Generation | *Tech:* GPT-2, Transformers, Fine-tuning | *Deliverables:* Python code-focused GPT-2 model  
 
-### 🤖 Week 3: Generative AI & Agentic Systems
+### 🤖 Generative AI & Agentic Systems
 - **Talk to Your Data — Natural Language to SQL Generator**  
   *Focus:* NLP, Database Querying | *Tech:* LangChain, SQL, NL2SQL | *Deliverables:* NL2SQL interface for employee dataset  
 
