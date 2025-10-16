@@ -104,24 +104,24 @@
   *Deliverables:* Custom search engine  
 
 - **Chat with Your Knowledge Base — RAG Chatbot**  
-  *Focus:* Retrieval Augmented Generation, Chatbots
-  *Tech:* LangChain, Vector Databases, Embeddings
-  *Deliverables:* Knowledge base chatbot  
+  - *Focus:* Retrieval Augmented Generation, Chatbots
+  - *Tech:* LangChain, Vector Databases, Embeddings
+  - *Deliverables:* Knowledge base chatbot  
 
 - **Autonomous Market Analyst — AI Agents for Deep Research**  
-  *Focus:* AI Agents, Autonomous Systems
-  *Tech:* LangChain Agents, Tool Integration
-  *Deliverables:* Automated market research agent  
+  -*Focus:* AI Agents, Autonomous Systems
+  -*Tech:* LangChain Agents, Tool Integration
+  -*Deliverables:* Automated market research agent  
 
 - **Web Automation on Autopilot — AI Browser Agent**  
-  *Focus:* Web Automation, Browser Control
-  *Tech:* Selenium, AI Agents, Web Scraping
-  *Deliverables:* AI-powered browser automation system  
+  - *Focus:* Web Automation, Browser Control
+  - *Tech:* Selenium, AI Agents, Web Scraping
+  - *Deliverables:* AI-powered browser automation system  
 
 - **Building an AI-Powered Newsletter Pipeline on n8n**  
-  *Focus:* Workflow Automation, Content Generation
-  *Tech:* n8n, AI Agents, RSS Feeds, Tavily
-  *Deliverables:* Automated newsletter generation system  
+  - *Focus:* Workflow Automation, Content Generation
+  - *Tech:* n8n, AI Agents, RSS Feeds, Tavily
+  - *Deliverables:* Automated newsletter generation system  
 
 ---
 
@@ -131,15 +131,6 @@
 - Hugging Face Transformers, LangChain  
 - OpenCV, YOLO  
 - Selenium, n8n, RSS feeds  
-
----
-
-## 🛠 Technologies Used
-- Python, Pandas, NumPy, Scikit-learn  
-- TensorFlow, Keras, PyTorch  
-- Hugging Face Transformers, LangChain  
-- OpenCV, YOLO, Selenium  
-- n8n, RSS feeds  
 
 ---
 
