@@ -14,19 +14,21 @@ To build an accurate regression model that predicts house sale prices based on m
 - **Target Variable:** SalePrice (ranging from $34,900 to $755,000)  
 - **Feature Types:** Numerical and categorical property characteristics  
 
-## Project Structure
+## Project Structure 
+
 Day_03/
-├── README.md                                          # Project documentation
+├── README.md                                           # Project documentation
 ├── 3. Predicting Housing Market Trends with AI.ipynb  # Main tutorial notebook
 ├── Assignment_Housing_Market_Complete.ipynb           # Assignment solution notebook
 ├── submission.csv                                     # Model predictions for test set
-├── Sumbission_Screenshot.jpg                          # GitHub upload screenshot
+├── Sumbission_Screenshot.jpg                                  # GitHub upload screenshot
 └── data/
     ├── README.md                                      # Data documentation
     ├── data_description.txt                            # Feature descriptions
     ├── sample_submission.csv                           # Submission format template
     ├── test.csv                                        # Test dataset
     └── train.csv                                       # Training dataset
+
 
 
 ## Analysis Workflow
