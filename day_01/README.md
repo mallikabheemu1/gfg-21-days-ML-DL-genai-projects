@@ -65,10 +65,14 @@ Covers **data loading, cleaning, analysis, feature engineering, and visualizatio
 - Matplotlib, Seaborn  
 - ydata-profiling  
 
+---
+
 ## 📂 Deliverables
 - **Main Notebook:** Complete EDA with detailed explanations  
 - **HTML Profiling Report:** Comprehensive automated data analysis  
 - **Documentation:** Professional project documentation  
+
+---
 
 ## ✅ Assignment Completion
 **Status:** COMPLETED  
@@ -77,7 +81,9 @@ All assignment requirements have been successfully fulfilled:
 - Comprehensive exploratory data analysis performed  
 - Data cleaning and preprocessing completed  
 - ydata-profiling HTML report generated  
-- Professional documentation provided  
+- Professional documentation provided
+
+---
 
 ## 🚀 Usage Instructions
 
@@ -85,18 +91,26 @@ All assignment requirements have been successfully fulfilled:
 ```bash
 jupyter notebook 1_Data_Storytelling_Analysing_Survival_on_the_Titanic.ipynb
 
+---
+
 2. **View Profiling Report:**
 
 - Open Assignment/sample.html in any web browser
 - Interactive report with detailed statistics and visualizations
 
+---
+
 3. **Requirements:**
 
 - pip install pandas numpy matplotlib seaborn ydata-profiling
 
+---
+
 ## Results and Impact
 
 This analysis provides valuable insights into the factors that influenced survival on the Titanic, demonstrating the power of data storytelling in uncovering historical patterns. The methodology can be       applied to similar datasets for comprehensive exploratory analysis.
+
+---
 
 ## Future Enhancements
 - Predictive modeling for survival prediction
@@ -104,8 +118,9 @@ This analysis provides valuable insights into the factors that influenced surviv
 - Machine learning model implementation
 - Interactive dashboard development
 
+---
 
 **Note:** This project is part of a 21-day data science challenge focusing on practical applications of data analysis and visualization techniques.
 
-
+---
 
