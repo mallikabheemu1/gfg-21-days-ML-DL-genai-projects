@@ -89,8 +89,8 @@ All assignment requirements have been successfully fulfilled:
 
 1. **Run the Analysis:**  
 ```bash
-jupyter notebook "1_Data_Storytelling_Analysing_Survival_on_the_Titanic.ipynb"
-
+jupyter notebook 1_Data_Storytelling_Analysing_Survival_on_the_Titanic.ipynb
+```
 ---
 
 2. **View Profiling Report:**
@@ -101,9 +101,9 @@ jupyter notebook "1_Data_Storytelling_Analysing_Survival_on_the_Titanic.ipynb"
 ---
 
 3. **Requirements:**
-
-- "pip install pandas numpy matplotlib seaborn ydata-profiling"
-
+```bash
+- pip install pandas numpy matplotlib seaborn ydata-profiling
+```
 ---
 
 ## Results and Impact
