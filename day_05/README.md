@@ -1,4 +1,4 @@
-# Day 5: Customer Segmentation with Advanced Feature Engineering
+# Day 5: Customer Segmentation with Clustering
 
 ## Project Overview
 
@@ -21,11 +21,11 @@ To perform customer segmentation using clustering algorithms with engineered fea
 
 ```
 Day_05/
-├── README.md                                                           # Project documentation
+├── README.md                                                          # Project documentation
 ├── 5_Smart_Segmentation_Unlocking_Customer_Personas_with_AI.ipynb     # Main tutorial notebook                        
-├── Assignment_Complete.ipynb                                           # Assignment solution notebook
+├── Assignment_Complete.ipynb                                          # Assignment solution notebook
 └── data/
-    └── Mall_Customers.csv                                              # Customer dataset
+    └── Mall_Customers.csv                                             # Customer dataset
 ```
 
 ## Submission Criteria
