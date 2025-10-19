@@ -23,7 +23,6 @@ To build an accurate binary classification model that predicts whether a patient
 Day_04/
 ├── README.md                                                                 # Project documentation
 ├── 4_AI_in_Healthcare_Building_a_Life_Saving_Heart_Disease_Predictor.ipynb  # Main tutorial notebook
-├── 4_AI_in_Healthcare_Local_Working.ipynb                                    # Local working version
 ├── Assignment_Heart_Disease.ipynb                                            # Assignment solution notebook
 └── data/
     └── heart_disease_uci.csv                                                 # Heart disease dataset
