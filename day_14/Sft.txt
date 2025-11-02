@@ -1,0 +1,7 @@
+what does in SFT(Supervised Fine-Tuning) trainer, packing = false mean, what does it do, how does it help in our training.
+
+In SFTTrainer, packing=False means each example is used as an independent input instead of combining several into one.
+For example, if max_seq_length=100 and your dataset has two samples — one with 30 tokens and another with 50 — each will be padded separately to 100 tokens.
+This keeps the instruction–response pairs clean and avoids mixing them together.
+It slightly reduces efficiency because of extra padding but ensures the model learns correctly from each example.
+So, packing=False helps maintain accuracy and clarity in supervised fine-tuning.
